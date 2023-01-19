@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Company Name",
+  "FriendlyName": "Company Name nopCommerce web API",
+  "SystemName": "CompanyName.Api",
+  "Version": "1.0.0",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "Softteco",
+  "DisplayOrder": -1,
+  "FileName": "Nop.Plugin.CompanyName.Api.dll",
+  "Description": "A custom web API for our mobile awesomeness."
+}
